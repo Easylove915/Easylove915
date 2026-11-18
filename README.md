@@ -4,16 +4,19 @@
 
 两个 0→1 的 AI 产品，都是我独立完成的：从问题定位、写 PRD、定评测口径，到把它做成能跑的代码。
 
-**作品集 → https://easylove915.github.io/**
+**作品集 → [easylove915.github.io](https://easylove915.github.io/)**
 
 ---
 
 #### 两个案例
 
-| 案例 | 做什么 | 关键结果 |
-|---|---|---|
-| [eNSP 排障助手](https://easylove915.github.io/project-ensp.html) | 贴一张报错截图，得到按概率排序、按风险分级的排查路径 | 30 条评测集 × 3 次重复 = 90 次作答；定位类满分率 0 → 78% |
-| [投递决策器](https://easylove915.github.io/project-jd.html) | 粘贴 JD 与简历，回答投不投、面试会在哪里被问穿、有多少条可核对的事实 | 20 个规则模块、238 项单测、4 组 JD 回归基线 |
+**[eNSP 排障助手](https://easylove915.github.io/project-ensp.html)** — 贴一张报错截图，得到按概率排序、按风险分级的排查路径；信息不足时先追问，而不是硬给一个答案。
+
+`30 条评测集 × 3 次重复 = 90 次作答` · 定位类满分率 **0 → 78%** · 6 张领域知识卡
+
+**[投递决策器](https://easylove915.github.io/project-jd.html)** — 粘贴 JD 与简历，回答投不投、面试会在哪里被问穿、有多少条可核对的事实；判不了的说判不了。
+
+`20 个规则模块` · **238 项单测** · 4 组 JD 回归基线
 
 完整 PRD：[eNSP v2.0](https://easylove915.github.io/prd-ensp.html) · [投递决策器 v2.1](https://easylove915.github.io/prd-jd.html)
 
